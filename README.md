@@ -249,7 +249,7 @@ MIT License — free to use and modify with attribution.
 
 ## 👤 Author
 
-**[Your Name]**
+**Kapilash Pradhan**
 Data Analyst | Python • Power BI • SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
